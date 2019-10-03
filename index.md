@@ -1,6 +1,5 @@
 <div class="mui-col-md-6 tutorial-content" style="min-height: 2170px;">
 <div class="cover">
-<img class="img-responsive" src="/html/images/html.jpg" alt="HTML Tutorial">
 </div>
 <h1>HTML Tutorial</h1>
 <div class="center-aligned tutorial-menu">
@@ -70,19 +69,6 @@
 <div class="google-bottom-ads">
 <div>Advertisements</div>
 <div>
-   <div id="vi_bottom_ads"><div class="adsbyvli" data-ad-slot="vi_9013190" data-id="vi_9013190_1" style="display: block !important; max-width: 580px !important; position: relative !important; margin: 0px auto !important;"><div id="vi_9013190_1" data-ad-slot="vi_9013190"></div><iframe class="vliIcon" id="vliIcon_vi_9013190_1" frameborder="no" scrolling="no" allowtransparency="true" hidefocus="true" tabindex="-1" marginwidth="0" marginheight="0" style="opacity: 0; visibility: hidden; border-top-right-radius: 5px !important; background-color: rgba(255, 255, 255, 0.9) !important; overflow: hidden !important; position: absolute !important; left: 0px !important; bottom: 0px !important; z-index: 9999 !important; transition: width 0.3s ease 0s, opacity 0.3s ease-in-out 0s !important; height: 16px !important; width: 16px !important;"></iframe></div></div>
-   <script>
-     (function() {
-     var adPos = document.getElementById('vi_bottom_ads');
-     var mobile_ad_id = "vi_9012177";
-     var desktop_ad_id = "vi_9013190";
-     var ad_id = window.innerWidth <= 768 ? mobile_ad_id : desktop_ad_id;
-     adPos.innerHTML = '<div class="adsbyvli" data-ad-slot="' + ad_id + '"></div>';
-     (vitag.displayInit = window.vitag.displayInit || []).push(function () {
-         viAPItag.display(ad_id);
-     });
-     }())
-   </script>
 </div>
 <div class="space-bottom"></div>
 </div>
